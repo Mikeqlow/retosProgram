@@ -14,4 +14,4 @@ masculino = True
 precio = 50.50
 dinero = None
 
-print("Hola, Python")
+print("Hola, Python como vas?")
