@@ -15,6 +15,12 @@
  *
  * Seguro que al revisar detenidamente las posibilidades has descubierto algo nuevo.
  """
+x = 10
+while x <= 55:
+    if x % 2 == 0 and x != 16 and x % 3 != 0:
+        print(x)
+    x+=1
+    
 
 ## Operadores aritméticos: +, -, *, /, %, **, //
 ## Para poder verificar si un número es par o impar, usaremos el operador módulo (%)
